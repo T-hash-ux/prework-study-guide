@@ -4,7 +4,7 @@ A study guide for course pre-work.
 ## Description
 "Prework Study Guide" is a comprehensive website for aspiring web developers preparing for coding bootcamp. The user-friendly site is optimized for desktop and mobile and covers topics such as HTML, CSS, JavaScript, and more.
 My motivation for this project is to create a comprehensive and easily accessible website for me to use for this bootcamp. Additionally, creating this study guide website is also a way to improve my understanding of web development by researching and organizing the topics.
-What i learned so far in creating this webpage is how to use the HTML, CSS, and JavaScript to create and design a professional and webpage that will be useful for me throughout this bootcamp.
+What I learned so far in creating this webpage is how to use the HTML, CSS, and JavaScript to create and design a professional and webpage that will be useful for me throughout this bootcamp.
 
 ## Installation
 
